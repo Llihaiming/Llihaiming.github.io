@@ -23,11 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "李海铭"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "东北师范大学"
+  bio              : "东北师范大学\n心理学院"
   location         : "吉林 长春"
-  employer         : "心理学院"
+  employer         : # "心理学院"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SmqExQ8AAAAJ"
+
   email            : "lihm021@nenu.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Haiming-Li-12"
   uri              : 
@@ -53,8 +54,8 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  weibo            :
-  Bilibili(B站)         : "https://space.bilibili.com/324936676"
+  weibo            : "https://space.bilibili.com/324936676"
+  Bilibili         :
   youtube          :
   wikipedia        :
 

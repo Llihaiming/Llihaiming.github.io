@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我是东师师范大学心理学院的研究生，我的导师是刘一副教授。本科毕业于东北师范大学。目前我仅合著发表 1 篇学术论文
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+我是东师师范大学心理学院基础心理学方向的硕士研究生，我的导师是刘一副教授。我本科也毕业于东北师范大学心理学专业。我的研究兴趣主要是是社会认知神经科学。包括合著，目前我发表了 1 篇学术论文
+ <a href='https://scholar.google.com/citations?user=SmqExQ8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我感兴趣的研究领域包括：
 - 社会神经科学
@@ -33,12 +33,12 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2024.09 - 2026.06*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 东北师范大学 心理学院, 推免“3+1+2”硕士研究生 
-- *2020.09 - 2024.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 东北师范大学 心理学院, 本科
+- *2024.09 - 2026.06*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 东北师范大学 心理学院, 基础心理学，推免“3+1+2”硕士
+- *2020.09 - 2024.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 东北师范大学 心理学院, 心理学，本科
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 
+# 📝 学术工作
 
 ### 论文
 ---
