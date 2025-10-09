@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "李海铭"
-description              : "社会神经科学 社会心理学"
+description              : "社会神经科学"
 repository               : "Llihaiming/psy_lihaiming.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "东北师范大学"
   location         : "吉林 长春"
-  employer         : # "心理学院"
+  employer         : "心理学院"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SmqExQ8AAAAJ"
   email            : "lihm021@nenu.edu.cn"
@@ -54,7 +54,7 @@ author:
   twitter          : 
   vine             :
   weibo            :
-  xing             :
+  Bilibili(B站)         : "https://space.bilibili.com/324936676"
   youtube          :
   wikipedia        :
 
