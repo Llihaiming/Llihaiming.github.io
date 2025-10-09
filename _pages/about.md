@@ -42,17 +42,17 @@ redirect_from:
 
 ### 论文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">iScience 2024</div><img src='images/img.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
+-	Yu Zhang, Chao Ma, `Haiming Li`, Leonardo Assumpção, Yi Liu. (2024). Sophisticated perspective-takers are distinctive: Neural idiosyncrasy of functional connectivity in the mentalizing network. *iScience*, 27(12). (2024年IF:4.6; JCR:Q1)  
 [[网页]](https://doi.org/10.1016/j.isci.2024.111472) [[下载]](/pdf/Sophisticated%20perspective-takers%20are%20distinctive.pdf)
 
 </div>
 </div>
 
 
--	Yu Zhang, Chao Ma, `Haiming Li`, Leonardo Assumpção, Yi Liu. (2024). Sophisticated perspective-takers are distinctive: Neural idiosyncrasy of functional connectivity in the mentalizing network. Iscience, 27(12).. *IEEE Transactions on Magnetics*. 2018, 54(8): 1–10. (JCR:Q3; IF:1.700)  
+-	Yu Zhang, Chao Ma, `Haiming Li`, Leonardo Assumpção, Yi Liu. (2024). Sophisticated perspective-takers are distinctive: Neural idiosyncrasy of functional connectivity in the mentalizing network. iScience, 27(12). (JCR:Q3; IF:1.700)  
 [[网页]](https://dx.doi.org/10.1109/TMAG.2018.2844220) [[下载]](/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf)
 
 ### 会议
