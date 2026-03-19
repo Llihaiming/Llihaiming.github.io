@@ -19,9 +19,9 @@ redirect_from:
 
 - 我目前是东师师范大学心理学院研究生，导师为刘一副教授。本科也毕业于东北师范大学心理学专业。
 - 我的研究兴趣主要集中在社会认知神经科学（Social Cognitive Neuroscience）。
-- 这里是我的谷歌学术主页~ <a href="https://scholar.google.com/citations?user=SmqExQ8AAAAJ">
-  <img src="https://img.shields.io/badge/Google%20Scholar-查看引用-blue?logo=google-scholar">
-</a>。
+- 这里是我的谷歌学术主页~ <img src="https://img.shields.io/badge/dynamic/json?label=Google%20Scholar&query=$.citedby&url=https://api.scholarbadge.com/SmqExQ8AAAAJ&logo=google-scholar">。
+
+
 
 我感兴趣的研究领域包括：
 - 社会神经科学
