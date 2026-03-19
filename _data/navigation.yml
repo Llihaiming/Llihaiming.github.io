@@ -1,19 +1,19 @@
 # main links links
 main:
-  - title: "简介"
+  - title: "个人简介"
     url: "/zh-cn/#about-me"
 
-  - title: "学历"
+  - title: "我的研究(还没更新)"
     url: "/zh-cn/#-xl"
 
-  - title: "论文专利"
+  - title: "更多故事(没有更新)"
     url: "/zh-cn/#-lwzl"
 
-  - title: "荣誉奖项"
+  - title: "微信公众号(还没做好)"
     url: "/zh-cn/#-ryjx"
 
-  - title: "学术会议"
-    url: "/zh-cn/#-xshy"
+  - title: "我的B站"
+    url: "https://space.bilibili.com/324936676"
 
 #  - title: "工作实习"
 #    url: "/zh-cn/#-gzsx"
