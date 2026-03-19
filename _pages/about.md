@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我目前是东师师范大学心理学院研究生，导师为刘一副教授。本科也毕业于东北师范大学心理学专业。
-我的研究兴趣主要集中在社会认知神经科学（Social Cognitive Neuroscience）。这里是我的谷歌学术主页~
-<a href="https://scholar.google.com/citations?user=SmqExQ8AAAAJ">
+- 我目前是东师师范大学心理学院研究生，导师为刘一副教授。本科也毕业于东北师范大学心理学专业。
+- 我的研究兴趣主要集中在社会认知神经科学（Social Cognitive Neuroscience）。
+- 这里是我的谷歌学术主页~ <a href="https://scholar.google.com/citations?user=SmqExQ8AAAAJ">
   <img src="https://img.shields.io/badge/Google%20Scholar-查看引用-blue?logo=google-scholar">
 </a>。
 
@@ -32,8 +32,10 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2024.09 - 至今*, <a href="https://www.nenu.edu.cn/"><img class="svg" src="/images/NENU.jpg" width="23pt"></a> 东北师范大学 心理学院, 基础心理学，推免“3+1+2”硕士 (可能会转博)
+- *2024.09 - 至今*, <a href="https://www.nenu.edu.cn/"><img class="svg" src="/images/NENU.jpg" width="20pt"></a> 东北师范大学 心理学院, 基础心理学，推免“3+1+2”硕士 (可能会转博)
 - *2020.09 - 2024.06*, <a href="https://www.nenu.edu.cn/"><img class="svg" src="/images/NENU.jpg" width="20pt"></a> 东北师范大学 心理学院, 心理学，本科
+
+<span class='anchor' id='-lwzl'></span>
 
 - *2014.09 - 2016.10*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SEU.jpg" width="20pt"></a> 东南大学 仪器科学与工程学院, 测控技术与仪器，辍学
  
@@ -52,7 +54,6 @@ redirect_from:
 </div>
 </div>
 
-—--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">iScience 2024</div><img src='images/iScience.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -73,13 +74,14 @@ redirect_from:
 - *2025* `国家奖学金`
 - *2023* `吉林省优秀大学生` 
 - *2024* 东北师范大学 `东师奖章` 
-- *2023* 东北师范大学 “理想与成才” `提名奖` 
+- *2023* 东北师范大学 `“理想与成才” 提名奖` 
 - *2024* 东北师范大学 `优秀毕业生` 
 - *2024* 东北师范大学 `励志学子` 
 - *2021,2022,2023* `国家励志奖学金`
 - *2022,2024* 东北师范大学 `校长奖学金`   
 - *2021,2023* 东北师范大学 `一等奖学金` 
-- *2023.11* 获得 吉林省基础学科拔尖学生“提问与猜想”活动 `优胜奖` [[新闻]](https://www.nenu.edu.cn/info/4881/255341.htm)  
+- *2023* 吉林省基础学科拔尖学生“提问与猜想”活动 `优胜奖`
+- *2024,2025* 东北师范大学 “东师杯”排球赛 `第四名`
 
 <span class='anchor' id='-xshy'></span>
 
@@ -93,8 +95,9 @@ redirect_from:
 - *2017.03 - 2019.10*, 教育培训机构，教培老师
 
 # 🏷 兴趣爱好
-- *排球*, 5年养生排球运动员 
+- *排球*, 专业养生排球运动员 
 - *音乐*, 虽然不懂但喜欢听古典乐
-- *文学*, 儒家经典、古典诗文、红楼梦、庄子、中国现当代文学、西方文学
+- *文学*, 儒学经典、古典诗文、红楼梦、庄子、中国现当代文学、西方文学
 - *骑行*, 偶尔骑骑车
 - *摄影*, 已经荒废多年
+- *科研*, 我最大的爱好就是搞科研(认真)
