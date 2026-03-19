@@ -41,21 +41,21 @@ redirect_from:
 
 ### 论文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">iScience 2024</div><img src='images/iScience.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	Zhang, Y., Ma, C., Li, H., Assumpção, L., & Liu, Y. (2024). Sophisticated perspective-takers are distinctive: Neural idiosyncrasy of functional connectivity in the mentalizing network. *Iscience*, 27(12). (2024年IF:4.6; JCR:Q1)  
-[[网页]](https://doi.org/10.1016/j.isci.2024.111472) [[下载]](/pdf/Sophisticated%20perspective-takers%20are%20distinctive.pdf)
-
-</div>
-</div>
-
----
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">iScience 2024</div><img src='images/CommunBiol.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Li, H.`, Yao, S., Zhang, Y., Wu, B., & Liu, Y. (2026). The role of dorsal anterior cingulate cortex in dynamic attitude changes in naturalistic settings. *Communications Biology*. (2026年IF:5.1; JCR:Q1)  
 [[网页]](https://www.nature.com/articles/s42003-026-09794-6) [[下载]](/pdf/SThe role of dorsal anterior cingulate cortex in dynamic attitude changes in naturalistic settings.pdf)
+
+</div>
+</div>
+
+—--
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">iScience 2024</div><img src='images/iScience.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	Zhang, Y., Ma, C., Li, H., Assumpção, L., & Liu, Y. (2024). Sophisticated perspective-takers are distinctive: Neural idiosyncrasy of functional connectivity in the mentalizing network. *Iscience*, 27(12). (2024年IF:4.6; JCR:Q1)  
+[[网页]](https://doi.org/10.1016/j.isci.2024.111472) [[下载]](/pdf/Sophisticated%20perspective-takers%20are%20distinctive.pdf)
 
 </div>
 </div>
@@ -90,10 +90,9 @@ redirect_from:
 # 💻 工作实习
 - *2017.03 - 2019.10*, 教育培训机构，教培老师
 
-
 # 🏷 兴趣爱好
 - *排球*, 5年养生排球运动员 
 - *音乐*, 虽然不懂但喜欢听古典乐
 - *文学*, 儒家经典、古典诗文、红楼梦、庄子、中国现当代文学、西方文学
-- *骑行*, 现在偶尔骑骑车
+- *骑行*, 偶尔骑骑车
 - *摄影*, 已经荒废多年
