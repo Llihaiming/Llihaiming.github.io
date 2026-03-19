@@ -19,7 +19,9 @@ redirect_from:
 
 我目前是东师师范大学心理学院研究生，导师为刘一副教授。本科也毕业于东北师范大学心理学专业。
 我的研究兴趣主要集中在社会认知神经科学（Social Cognitive Neuroscience）。这里是我的谷歌学术主页~
- <a href='https://scholar.google.com/citations?user=SmqExQ8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+<a href="https://scholar.google.com/citations?user=SmqExQ8AAAAJ">
+  <img src="https://img.shields.io/badge/Google%20Scholar-查看引用-blue?logo=google-scholar">
+</a>。
 
 我感兴趣的研究领域包括：
 - 社会神经科学
@@ -30,8 +32,8 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2024.09 - 至今*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/NENU.jepg" width="23pt"></a> 东北师范大学 心理学院, 基础心理学，推免“3+1+2”硕士 (可能会转博)
-- *2020.09 - 2024.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/NENU.jepg" width="20pt"></a> 东北师范大学 心理学院, 心理学，本科
+- *2024.09 - 至今*, <a href="https://www.nenu.edu.cn/"><img class="svg" src="/images/NENU.jpg" width="23pt"></a> 东北师范大学 心理学院, 基础心理学，推免“3+1+2”硕士 (可能会转博)
+- *2020.09 - 2024.06*, <a href="https://www.nenu.edu.cn/"><img class="svg" src="/images/NENU.jpg" width="20pt"></a> 东北师范大学 心理学院, 心理学，本科
 
 - *2014.09 - 2016.10*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SEU.jpg" width="20pt"></a> 东南大学 仪器科学与工程学院, 测控技术与仪器，辍学
  
@@ -41,11 +43,11 @@ redirect_from:
 
 ### 论文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">iScience 2024</div><img src='images/CommunBiol.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Commun Biol 2026</div><img src='images/CommunBiol.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Li, H.`, Yao, S., Zhang, Y., Wu, B., & Liu, Y. (2026). The role of dorsal anterior cingulate cortex in dynamic attitude changes in naturalistic settings. *Communications Biology*. (2026年IF:5.1; JCR:Q1)  
-[[网页]](https://www.nature.com/articles/s42003-026-09794-6) [[下载]](/pdf/SThe role of dorsal anterior cingulate cortex in dynamic attitude changes in naturalistic settings.pdf)
+[[网页]](https://doi.org/10.1038/s42003-026-09794-6) [[下载]](/pdf/SThe role of dorsal anterior cingulate cortex in dynamic attitude changes in naturalistic settings.pdf)
 
 </div>
 </div>
@@ -54,7 +56,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">iScience 2024</div><img src='images/iScience.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Zhang, Y., Ma, C., Li, H., Assumpção, L., & Liu, Y. (2024). Sophisticated perspective-takers are distinctive: Neural idiosyncrasy of functional connectivity in the mentalizing network. *Iscience*, 27(12). (2024年IF:4.6; JCR:Q1)  
+-	Zhang, Y., Ma, C., `Li, H.`, Assumpção, L., & Liu, Y. (2024). Sophisticated perspective-takers are distinctive: Neural idiosyncrasy of functional connectivity in the mentalizing network. *Iscience*, 27(12). (2024年IF:4.6; JCR:Q1)  
 [[网页]](https://doi.org/10.1016/j.isci.2024.111472) [[下载]](/pdf/Sophisticated%20perspective-takers%20are%20distinctive.pdf)
 
 </div>
