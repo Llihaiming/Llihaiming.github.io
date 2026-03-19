@@ -17,24 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我是东师师范大学心理学院基础心理学方向的硕士研究生，我的导师是刘一副教授。我本科也毕业于东北师范大学心理学专业。我的研究兴趣主要是是社会认知神经科学。包括合著，目前我发表了 1 篇学术论文
+我目前是东师师范大学心理学院研究生，导师为刘一副教授。本科也毕业于东北师范大学心理学专业。
+我的研究兴趣主要集中在社会认知神经科学（Social Cognitive Neuroscience）。这里是我的谷歌学术主页~
  <a href='https://scholar.google.com/citations?user=SmqExQ8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我感兴趣的研究领域包括：
 - 社会神经科学
-- 认知神经科学
-- 社会心理学
-- 自然刺激
-- 态度改变
-
-  
-
+- 社会认知
+- 说服与态度改变
+- 自然刺激范式
 
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2024.09 - 2026.06*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 东北师范大学 心理学院, 基础心理学，推免“3+1+2”硕士
-- *2020.09 - 2024.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 东北师范大学 心理学院, 心理学，本科
+- *2024.09 - 至今*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/NENU.jepg" width="23pt"></a> 东北师范大学 心理学院, 基础心理学，推免“3+1+2”硕士 (可能会转博)
+- *2020.09 - 2024.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/NENU.jepg" width="20pt"></a> 东北师范大学 心理学院, 心理学，本科
+
+- *2014.09 - 2016.10*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SEU.jpg" width="20pt"></a> 东南大学 仪器科学与工程学院, 测控技术与仪器，辍学
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -42,54 +41,59 @@ redirect_from:
 
 ### 论文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">iScience 2024</div><img src='images/img.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">iScience 2024</div><img src='images/iScience.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Yu Zhang, Chao Ma, `Haiming Li`, Leonardo Assumpção, Yi Liu. (2024). Sophisticated perspective-takers are distinctive: Neural idiosyncrasy of functional connectivity in the mentalizing network. *iScience*, 27(12). (2024年IF:4.6; JCR:Q1)  
+-	Zhang, Y., Ma, C., Li, H., Assumpção, L., & Liu, Y. (2024). Sophisticated perspective-takers are distinctive: Neural idiosyncrasy of functional connectivity in the mentalizing network. *Iscience*, 27(12). (2024年IF:4.6; JCR:Q1)  
 [[网页]](https://doi.org/10.1016/j.isci.2024.111472) [[下载]](/pdf/Sophisticated%20perspective-takers%20are%20distinctive.pdf)
 
 </div>
 </div>
 
-
--	Yu Zhang, Chao Ma, `Haiming Li`, Leonardo Assumpção, Yi Liu. (2024). Sophisticated perspective-takers are distinctive: Neural idiosyncrasy of functional connectivity in the mentalizing network. iScience, 27(12). (JCR:Q3; IF:1.700)  
-[[网页]](https://dx.doi.org/10.1109/TMAG.2018.2844220) [[下载]](/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf)
-
-### 会议
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">iScience 2024</div><img src='images/CommunBiol.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- 	`唐健`，王荣彪，康宜华. 大提离漏磁无损检测方法. *无损检测*. 2022,44(4): 67. (核心期刊)  
-[[网页]](https://dx.doi.org/10.11973/wsjc202204000) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
+-	`Li, H.`, Yao, S., Zhang, Y., Wu, B., & Liu, Y. (2026). The role of dorsal anterior cingulate cortex in dynamic attitude changes in naturalistic settings. *Communications Biology*. (2026年IF:5.1; JCR:Q1)  
+[[网页]](https://www.nature.com/articles/s42003-026-09794-6) [[下载]](/pdf/SThe role of dorsal anterior cingulate cortex in dynamic attitude changes in naturalistic settings.pdf)
 
-- 刘伯承, `唐健*`, 王荣彪, 叶文超, 康宜华. 基于TMR的轴承滚子微细裂纹漏磁检测方法. *仪表技术与传感器*. 2021(12): 111-114+118.  (通讯作者; 核心期刊)  
-[[网页]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=YBJS202112021) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8ETMR%E7%9A%84%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8ETMR%E7%9A%84%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
+</div>
+</div>
 
-- 	杨航, 汪圣涵, `唐健`, 康宜华. 凸轮轴的自动化涡流检测方法与系统. *无损检测*. 2020, 42(11): 61. (核心期刊)  
-[[网页]](https://dx.doi.org/10.11973/wsjc202011013) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf) [[下载]](/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf)  
 
 ### 科研项目
 ---
-- 康宜华, `唐健`. 一种基于铁磁性板的缺陷检测方法. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IBC8DFA9GCB8DEA6FAA9HHFCICA1BAA9ACB9EGC9GAA6AAA)
-- 康宜华, `唐健`. 基于电磁原理的倒角测量装置.[[网页]](http://www.wanfangdata.com.cn/details/detail.do?_type=patent&id=CN201921137073.X)
-
+- `李海铭`. 主持. 态度改变的神经机制. 东北师范大学硕士研究生高水平科研培育项目. 2024. 
 
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项
-- *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
-- *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
-- *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
+- *2025* `国家奖学金`
+- *2023* `吉林省优秀大学生` 
+- *2024* 东北师范大学 `东师奖章` 
+- *2023* 东北师范大学 “理想与成才” `提名奖` 
+- *2024* 东北师范大学 `优秀毕业生` 
+- *2024* 东北师范大学 `励志学子` 
+- *2021,2022,2023* `国家励志奖学金`
+- *2022,2024* 东北师范大学 `校长奖学金`   
+- *2021,2023* 东北师范大学 `一等奖学金` 
+- *2023.11* 获得 吉林省基础学科拔尖学生“提问与猜想”活动 `优胜奖` [[新闻]](https://www.nenu.edu.cn/info/4881/255341.htm)  
 
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ 学术会议
-- *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
-- *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
-- *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
+- *2025.6*, Unraveling the Dynamic Changes of Mind: The Critical Role of the Dorsal Anterior Cingulate Cortex in Predicting Attitude Changes. The 17th Annual Social & Affective Neuroscience Society Meeting (SANS 2025 Annual Meeting), Chicago, `Data Blitz` presentation.
+
 
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
-- *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
-- *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
-- *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+- *2017.03 - 2019.10*, 教育培训机构，教培老师
+
+
+# 🏷 兴趣爱好
+- *排球*, 5年养生排球运动员 
+- *音乐*, 虽然不懂但喜欢听古典乐
+- *文学*, 儒家经典、古典诗文、红楼梦、庄子、中国现当代文学、西方文学
+- *骑行*, 现在偶尔骑骑车
+- *摄影*, 已经荒废多年
