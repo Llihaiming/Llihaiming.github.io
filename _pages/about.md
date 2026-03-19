@@ -16,11 +16,10 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+你好哇~
 - 我目前是东师师范大学心理学院研究生，导师为刘一副教授。本科也毕业于东北师范大学心理学专业。
 - 我的研究兴趣主要集中在社会认知神经科学（Social Cognitive Neuroscience）。
 - 这里是我的谷歌学术主页~ <img src="https://img.shields.io/badge/dynamic/json?label=Google%20Scholar&query=$.citedby&url=https://api.scholarbadge.com/SmqExQ8AAAAJ&logo=google-scholar">。
-
 
 
 我感兴趣的研究领域包括：
@@ -32,8 +31,8 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2024.09 - 至今*, <a href="https://www.nenu.edu.cn/"><img class="svg" src="/images/NENU.jpg" width="20pt"></a> 东北师范大学 心理学院, 基础心理学，推免“3+1+2”硕士 (可能会转博)
-- *2020.09 - 2024.06*, <a href="https://www.nenu.edu.cn/"><img class="svg" src="/images/NENU.jpg" width="20pt"></a> 东北师范大学 心理学院, 心理学，本科
+- *2024.09 - 至今*, <a href="https://www.nenu.edu.cn/"><img class="svg" src="/images/NENU.jpg" width="23pt"></a> 东北师范大学 心理学院, 基础心理学，推免“3+1+2”硕士 (可能会转博)
+- *2020.09 - 2024.06*, <a href="https://www.nenu.edu.cn/"><img class="svg" src="/images/NENU.jpg" width="23pt"></a> 东北师范大学 心理学院, 心理学，本科
 
 <span class='anchor' id='-lwzl'></span>
 

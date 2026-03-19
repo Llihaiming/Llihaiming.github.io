@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "李海铭"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/9597558df1d89d331aee3321c24aaaf5.png"
   bio              : "东北师范大学\n心理学院"
   location         : "吉林 长春"
   employer         : # "心理学院"
@@ -52,10 +52,10 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://x.com/LiHaiming_psy"
   vine             :
-  weibo            : "https://space.bilibili.com/324936676"
-  Bilibili         :
+  weibo            : 
+  Bilibili         : "https://space.bilibili.com/324936676"
   youtube          :
   wikipedia        :
 
