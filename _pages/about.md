@@ -29,11 +29,12 @@ redirect_from:
 - 社会认知
 - 说服与态度改变
 - 自然刺激范式
+- 自发思维
 
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2024.09 - 至今*, <a href="https://www.nenu.edu.cn/"><img class="svg" src="/images/NENU.jpg" width="23pt"></a> 东北师范大学 心理学院, 基础心理学，推免“3+1+2”硕士 (可能会转博)
+- *2024.09 - 至今*, <a href="https://www.nenu.edu.cn/"><img class="svg" src="/images/NENU.jpg" width="23pt"></a> 东北师范大学 心理学院, 基础心理学，推免“3+1+2”硕士 
 - *2020.09 - 2024.06*, <a href="https://www.nenu.edu.cn/"><img class="svg" src="/images/NENU.jpg" width="23pt"></a> 东北师范大学 心理学院, 心理学，本科
 
 <span class='anchor' id='-lwzl'></span>
